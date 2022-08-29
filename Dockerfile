@@ -1,3 +1,3 @@
 FROM ubuntu
 
-RUN apt update && apt install -y midori
+RUN apt update && apt install -y surf
